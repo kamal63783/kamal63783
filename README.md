@@ -3,13 +3,13 @@
 <h3 align="center">Part Time Gamer🎮 - Full Time Coder💻</h3>
 <img align="right" width="400" src="https://github.com/kamal63783/kamal63783/assets/84724986/767f5bf5-0dab-4dc8-b117-07d99de2a1ac">
 
-- 🏢 I’m currently working as **SDE - Backend** at **Lenskart**
+- 🏢 I’m currently working as **SDE - Backend Heavy Full-Stack** at **Infosys**
 
-- 🔭 I’m presently engaged in **Backend Development**
+- 🔭 I’m presently engaged in **Backend Heavy Full-Stack Development**
 
-- 🌱 I’m in the midst of acquiring skills in **SpringBoot, MicroServices**
+- 🌱 I’m in the midst of acquiring skills in **SpringBoot, MicroServices, Angular**
 
-- 💬 If you're curious, I can tell you about **Backend Development, Competitive Programming, Data Structures and Algorithms**
+- 💬 If you're curious, I can tell you about **Backend Development, Frontend Development Competitive Programming, Data Structures and Algorithms**
 
 - 📫 Drop me a line at **easarlarajkamal63783@gmail.com**
 
